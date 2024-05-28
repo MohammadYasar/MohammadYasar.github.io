@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Samin, a Ph.D. candidate in Computer Engineering at the University of Virginia, Charlottesville. My research focuses on creating algorithms that enable AI agents to collaborate effectively with humans. In my Ph.D., I've specialized in developing generative models to understand human actions and using these models to enhance robotic decision-making. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Originally from Bangladesh, I obtained my BSc in Electrical and Electronic Engineering from BRAC University. Before pursuing my Ph.D., I spent two years at MGH Group Bangladesh as a Strategic Planning Analyst.
