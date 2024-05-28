@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Samin, a Ph.D. candidate in Computer Engineering at the University of Virginia, Charlottesville. My research focuses on creating algorithms that enable AI agents to collaborate effectively with humans. In my Ph.D., I've specialized in developing generative models to understand human actions and using these models to enhance robotic decision-making. 
+Hello! I'm Samin, a Ph.D. candidate in Computer Engineering at the University of Virginia, Charlottesville. My research focuses on creating algorithms that enable AI agents to collaborate effectively with humans. In my Ph.D. I've specialized in developing generative models to understand human actions and using these models to enhance robotic decision-making. 
 
 I obtained my BSc in Electrical and Electronic Engineering from BRAC University. Before pursuing my Ph.D., I spent two years at MGH Group Bangladesh as a Strategic Planning Analyst.
 <!-- 
